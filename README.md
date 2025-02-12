@@ -33,11 +33,11 @@ Install Dependencies
 
 Ensure you have Python installed, then install required libraries:
 
-#pip install numpy scipy matplotlib
+pip install numpy scipy matplotlib
 
 Run the script:
 
-#python seasonal_water_model.py
+python seasonal_water_model.py
 
 result: 
 
